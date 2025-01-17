@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Limengzi Yuan"
+title: "Limengzi Yuan（袁李萌子)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,6 @@ A professor at the Department of Data Science, College of Information Science an
 
 About Me
 ======
-**About Me**
 
 I am Limengzi Yuan, a passionate educator and researcher in the field of Computer Science and Technology. After completing my Bachelor's and Master's degrees at Tianjin University, I was honored with the title of "Outstanding Graduate" and awarded a National Scholarship for Postgraduates. My academic journey and professional experience have equipped me with a strong foundation in dynamic network analysis, deep learning, and computational intelligence.
 
