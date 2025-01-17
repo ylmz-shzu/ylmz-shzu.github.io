@@ -12,13 +12,22 @@ A professor at the Department of Data Science, College of Information Science an
 About Me
 ======
 
-I am Limengzi Yuan, a passionate educator and researcher in the field of Computer Science and Technology. After completing my Bachelor's and Master's degrees at Tianjin University, I was honored with the title of "Outstanding Graduate" and awarded a National Scholarship for Postgraduates. My academic journey and professional experience have equipped me with a strong foundation in dynamic network analysis, deep learning, and computational intelligence.
+#Academic Achievements
+##Outstanding Academic Background:
+Limengzi Yuan holds both a Bachelor's degree in Computer Science and Technology and a Master's degree in Software Engineering from Tianjin University. She was recognized as an "Outstanding Graduate" and awarded the National Scholarship, demonstrating her exceptional academic performance.
 
-Currently, I am serving as a lecturer at Shihezi University, where I teach a variety of undergraduate courses, including Algorithm Analysis and Design, Data Structures, Machine Learning, and Engineering Ethics. I am deeply involved in course development, including the creation of quizzes, exams, and homework, as well as revising syllabi to meet accreditation standards.
+##Excellence in Teaching:
+As a lecturer at Shihezi University, Limengzi Yuan teaches courses such as Algorithm Analysis and Design, Data Structures, Machine Learning, and Engineering Ethics. She is dedicated to fostering students' technical abilities and innovative thinking. Her passion and commitment to teaching have earned her multiple "Most Beautiful Teacher" awards, showcasing her enthusiasm and responsibility in the classroom.
 
-My research interests lie primarily in the fields of network reliability, deep learning, and community detection in complex systems. I have worked on developing deep learning-based models to improve traffic network reliability and optimize system performance. Additionally, I have explored innovative algorithms for community detection in temporal networks, with applications in social networks, forest monitoring systems, and ocean technology. My research contributions have been published in prestigious journals, including *Computers and Electronics in Agriculture*.
+#Research Contributions
+Deep Learning and Network Reliability:
+Limengzi Yuan has led and participated in several deep learning projects aimed at enhancing the reliability of traffic and physical systems networks. She developed a deep learning-based model that analyzes network topology, traffic flow, and system conditions to predict and improve system reliability. Additionally, she proposed a new clustering-based community detection algorithm that dynamically adapts to changes in network structure, enabling the migration and transformation of communities.
 
-I am proficient in multiple programming languages, including C++, Java, and Python, and I have received numerous accolades throughout my academic career, including the "Most Beautiful Teachers" Award. I am dedicated to advancing the field of computer science, with a focus on AI applications in real-world problems and the optimization of complex network systems.
+##Green Energy Supply Chain Optimization:
+As the project leader, Limengzi Yuan conducted research on the impact of digitalization and artificial intelligence on green energy supply chains. She developed an analytical framework to assess how AI and digital technologies optimize green energy production, improving both efficiency and sustainability. Her work involved case studies in the green energy sector, including solar and wind power, where she analyzed the practical applications of AI and digital supply chains.
 
-Feel free to connect or reach me via [ylmz@shzu.edu.cn](ylmz@shzu.edu.cn).
+##Complex Networks and Community Detection:
+Yuan made significant contributions to community detection and relationship mining in temporal networks. She introduced and implemented the Triple-NMF (Triple Non-negative Matrix Factorization) algorithm to improve the accuracy and efficiency of community detection in dynamic and complex networks. Her work has been published in well-regarded international journals and conferences, providing valuable technical support for research in complex networks.
 
+##Application Expansion:
+Yuan’s research extends beyond traffic networks and green energy. She has also explored deep learning-based object detection techniques in forest monitoring systems, where she successfully optimized the YOLO (You Only Look Once) model to improve the processing efficiency of remote sensing data. This advancement helps forest managers better assess and manage forest health.
