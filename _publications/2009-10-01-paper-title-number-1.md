@@ -2,7 +2,7 @@
 title: "S2DNMF: A Self-supervised Deep Nonnegative Matrix Factorization Recommendation Model Incorporating Deep Latent Features of Network Structure"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1.md
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper proposes a self-supervised deep nonnegative matrix factorization model for recommendation, integrating deep latent features from network structure.'
 date: 2024-01-01
 venue: 'Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data'
