@@ -10,4 +10,4 @@ slidesurl: 'https://link.springer.com/chapter/10.1007/978-981-97-7235-3_11'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-97-7235-3_11'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents S2DNMF, a self-supervised deep nonnegative matrix factorization recommendation model. By incorporating deep latent features derived from network structure, S2DNMF improves the recommendation accuracy and robustness in real-world applications. The model effectively integrates both collaborative filtering and network-based information, providing a more comprehensive recommendation approach.
