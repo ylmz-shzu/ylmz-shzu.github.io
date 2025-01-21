@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Limengzi Yuan / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Limengzi Yuan"
-description              : &description "A professor at the School of Information Science and Technology, Shihezi University"
+description              : &description "A lecturer in the Department of Data Science and Big Data Technology, School of Information Science and Technology, Shihezi University."
 url                      : https://ylmz-shzu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ylmz-shzu/ylmz-shzu.github.io"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "ylmz.png"
   name             : "Limengzi Yuan(袁李萌子)"
-  pronouns         : # example: "she/her"  
-  bio              : "A beautiful and smart girl"
+  pronouns         : "she"  
+  #bio              : "A beautiful and smart girl"
   location         : "China"
   employer         : "Shihezi University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7487-5462"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
