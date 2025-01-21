@@ -12,4 +12,3 @@ This paper presents SDES-YOLO, a high-precision and lightweight model for fall d
 
 
 Xuewen Wang, Qingzhan Zhao, Ping Jiang, Yuchen Zheng, Limengzi Yuan, Panli Yuan. LDS-YOLO: A lightweight small object detection method for dead trees from shelter forest. Comput. Electron. Agric. 198: 107035 (2022)
-[paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169922003520)
