@@ -21,7 +21,6 @@ Education
 **Tianjin University, Tianjin, China** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **09/2011-07/2015**<br>
 ■ **Bachelor of Computer Science and Technology**                                       <br>
 ● **Graduating with the title of “Outstanding Graduate of Tianjin University” (06/2015)**<br>
-● **GPA**: 3.46/4.0<br>
 ● **Thesis**: Research on Complex Network Community Detection and Critical Node Recognition for Biological Fields<br>
 <br>
 
