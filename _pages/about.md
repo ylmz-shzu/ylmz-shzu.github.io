@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A professor at the Department of Data Science, College of Information Science and Technology, Shihezi University.
+A lecturer in the Department of Data Science and Big Data Technology, School of Information Science and Technology, Shihezi University.
 
 About Me
 ======
