@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Tianjin University, Tianjin, China** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**09/2015-01/2018**<br>
+■**Master of Computer Science and Technology**                                         <br>
+● **Graduating with the title of “Outstanding Graduate of Tianjin University”**(12/2017)<br>
+● **National Scholarship for Postgraduates, Ministry of Education of the People’s Republic of China (1%)** (12/2017)<br>
+● **GPA**: 81.76/100<br>
+● **Thesis**: Management Information System of A Comprehensive Test Platform for Marine Dynamic Environmental Observation Instrument and Equipment<br>
+<br>
+**Tianjin University, Tianjin, China** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **09/2011-07/2015**<br>
+■ **Bachelor of Computer Science and Technology**                                       <br>
+● **Graduating with the title of “Outstanding Graduate of Tianjin University” (06/2015)**<br>
+● **GPA**: 3.46/4.0<br>
+● **Thesis**: Research on Complex Network Community Detection and Critical Node Recognition for Biological Fields<br>
+<br>
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Shihezi University (SHZU) , Xinjiang Uygur Autonomous Region, China&emsp;&emsp;09/2018–Present**<br>
+Spatial Information Laboratory |Network Public Opinion Situation Awareness & Intelligent Guidance Innovation Team| Provincial Key Laboratory of Computational Intelligence | School of Information Science and Technology<br>
+■ **Lecturer**          <br>
+● Teaching undergraduate courses including “Algorithm of Analysis and Design”, “Data Structure”, “Machine Learning” and “Engineering Ethics”, etc.<br>
+● Developed quizzes, exams, and homework.<br>
+● Revised the syllabus to meet accreditation standards.<br>
+● Coordinated lab networks with a team of 4 members, including 1 professor, 2 associate professors and 1 lecturer.<br>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+■ **Languages**: Chinese (mother tongue) • English (fluent, IELTS: 7.0)<br>
+■ **Computer skills**: C++ • Matlab • Office • Java • Python<br>
 
 Publications
 ======
@@ -47,13 +47,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+intellectual property
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Manuscripts Under Review
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
