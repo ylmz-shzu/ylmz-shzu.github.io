@@ -1,0 +1,11 @@
+---
+title: "DomFuzz: Dominator-Based Directed Grey-Box Fuzzing for ICPSs"
+collection: publications
+category: conferences
+permalink: /publication/2025-02-21-paper-title-11
+excerpt: 'This paper proposes propose DomFuzz, a dominator-based directed grey-box fuzzing method that enables precise vulnerability distance calculations for critical infrastructure components. '
+date: 2025-02-21
+venue: ' IEEE Network ( Early Access )'
+paperurl: 'https://ieeexplore.ieee.org/document/10879320/authors#authors'
+---
+In this article, we propose DomFuzz, a dominator-based directed grey-box fuzzing method that enables precise vulnerability distance calculations for critical infrastructure components. Specifically, to fairly distribute computing resources to testing inputs, we use a dominator-based power schedule for the first time.Additionally, we adjust the transition time between testing phases dynamically to improve vulnerability identification efficiency in ICPSs. 
